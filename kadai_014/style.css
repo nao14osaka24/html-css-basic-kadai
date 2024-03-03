@@ -1,0 +1,36 @@
+h2{
+  font-size: 20px;
+}
+
+.text-pink{
+  color: rgb(255, 192, 203);
+}
+
+.text-blue{
+  color: skyblue;
+}
+
+h1{
+  letter-spacing: 1.2em;
+  text-decoration: underline 3px rgb(115, 115, 114);
+  text-shadow: 10px 10px 10px brown;
+  
+}
+body{
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+
+.text-bold p{
+  font-weight: bold;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 700
+
+.josefin-sans h1{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
